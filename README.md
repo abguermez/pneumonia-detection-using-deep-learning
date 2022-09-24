@@ -1,2 +1,5 @@
-# pneumonie
-je vous propose un modèle que j’ai créé avec deep learning qui a pour but d’assister le docteur  lors du diagnostic de pneumonie.
+# Apprentissage approfondi (Deep learning) et détection de pneumonie.
+Je m’appelle Abdellah ELGUERMEZ, je vous présente mon travail sur la détection de pneumonie par l’apprentissage approfondie (Exactememt avec ResNet). Je vous propose un modèle que j’ai créé qui a pour but d’assister le docteur lors du diagnostic de pneumonie.
+Pour créer mon modèle, j'ai utilisé Anaconda car il m'a permis de gérer les libraires Conda. J'ai programmé dans Jupyter Notebook qui a pour avantage d'exécuter chaque bloc indépendamment, comme j'ai pris la base de données du site web Kaggle qui organise des compétitions en intelligence artificielle.
+La base de données est organisée en 3 dossiers (entraînement, validation et test), puis en deux sous dossiers pour chaque catégorie d'image. Le nombre total d'images radiographiques est 5863.
+On peut utiliser ce modèle dans une application créée en Java ou Flask (un micro framework open-source de développement web en Python) pour permettre une utilisation directe aux docteurs.
